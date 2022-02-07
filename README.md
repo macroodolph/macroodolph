@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macroodolph
-- 👀 I’m interested in electtonik and informatic
-- 🌱 I’m currently learning c,c++ andscala programming linguage
+- 👀 I’m interested in electronics and computer science
+- 🌱 I’m currently learning c,c++ and scala programming linguage
 - 💞️ I’m looking to collaborate on ...
 - 📫 My mail adress macroodolph@gmail.com
 
